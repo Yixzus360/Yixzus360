@@ -1,16 +1,25 @@
-## Hi there 👋
+# Yixzus360
 
-<!--
-**Yixzus360/Yixzus360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer & AI Specialist
 
-Here are some ideas to get you started:
+Web applications with and without AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+
+**Spotify**  
+AI Software Engineer
+
+## Experience
+
+- Web application development and API integrations.
+- AI integration in web applications and development workflows.
+- Process and browser automation with Python and Selenium.
+- Local AI workflows with Ollama.
+
+**Tools:** Python, Selenium, Claude, Codex, Ollama.
+
+## Availability
+
+**Available for hire**
+
+Open to web development, AI software development, AI integration, and automation roles.
