@@ -1,85 +1,35 @@
-AI Software Engineer | Full-Stack Developer | AI-Powered SaaS Builder
+Yixzus360
 
-Building real-world software with AI. From ideas to production.
+AI Software Engineer | Full-Stack Developer | SaaS Builder
 
-I'm a software developer focused on designing, building, and deploying intelligent applications, SaaS platforms, and automation systems.
+Passionate about building software, AI-powered applications, SaaS platforms, and intelligent automation.
 
-I combine backend engineering, full-stack development, and AI-assisted programming to transform ideas into functional products.
-
-My passion is building technology that solves real problems, experimenting with AI tools, designing scalable systems, and bringing software to life.
+I turn ideas into functional products using AI-assisted development, backend engineering, APIs, and cloud technologies.
 
 What I Do
 
-AI Software Engineering: Build AI-powered applications, intelligent agents, and LLM-integrated software.
+Build and deploy full-stack applications and SaaS.
 
-SaaS Development: Design and develop web platforms, business applications, and subscription-based software.
+Develop backend systems and REST APIs.
 
-Backend & API Development: Build backend services, REST APIs, database integrations, and application workflows.
+Integrate LLMs, AI agents, and automation.
 
-AI Agents & Automation: Develop intelligent workflows, browser automation, and integrations between applications and services.
+Design and deploy cloud-based solutions.
 
-Cloud & Deployment: Configure, deploy, and maintain applications in cloud environments.
+Experience
 
-AI-Assisted Development: Leverage Claude, Codex, and other AI development tools to accelerate software creation, prototyping, and problem-solving.
+GLOBALIT MODE LTD: AI Software Engineering & Product Development
 
-Current Work
+Spotify CX: Senior Quality Auditor & Data Analyst
 
-GLOBALIT MODE LTD — AI Software Engineering & Product Development
+Tech Stack
 
-Leading technical development and AI integration for software products and business solutions.
+Python, JavaScript, SQL, REST APIs, Selenium, OpenAI, Claude, Codex, Ollama, Git, Cloud Infrastructure.
 
-Spotify CX (Concentrix) — Senior Quality Auditor & Data Analyst
+Education
 
-Working with quality engineering processes, operational analytics, performance reporting, and data-driven improvements.
-
-Projects & Interests
-
-AIHeroEX / GlobalExpaths
-
-AI-powered job discovery and application automation, combining intelligent candidate matching, workflow orchestration, and web technologies.
-
-Engram Runtime
-
-Exploring multi-model AI coordination, agent orchestration, and intelligent runtime systems.
-
-Applied AI & SaaS
-
-Building and experimenting with AI agents, LLM integrations, automated workflows, backend services, and scalable SaaS architectures.
-
-Technologies & Tools
-
-Programming: Python, JavaScript, SQL
-
-Development: Full-Stack Development, Backend Engineering, REST APIs, Selenium, Browser Automation
-
-AI & LLMs: OpenAI, Claude, Codex, Ollama, AI Agents, LLM Integration
-
-Data & Analytics: Power BI, Tableau, SQL, Data Analysis
-
-Infrastructure: Cloud Deployment, Server Configuration, API Integrations, Automation Workflows
-
-Education & Continuous Learning
-
-B.Sc. Computer Science — University of the People (In Progress)
-
-Continuously expanding my knowledge of software engineering, applied AI, machine learning, cloud infrastructure, and modern development practices.
+B.Sc. Computer Science, University of the People (In Progress).
 
 Open to Work
 
-Available for hire — Remote & International Opportunities
-
-Interested in opportunities involving:
-
-AI Software Engineering
-
-Applied AI Engineering
-
-Full-Stack & Backend Development
-
-AI Agents & Automation
-
-SaaS & Product Engineering
-
-GitHub: github.com/Yixzus360
-
-I don't just explore AI. I use it to build software that works.
+AI Engineering, Full-Stack, Backend, SaaS Development and Automation.
